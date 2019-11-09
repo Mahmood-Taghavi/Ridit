@@ -1,0 +1,5 @@
+#exportPattern("^[[:alpha:]]+")
+export(ridit)
+S3method(print, ridit)
+
+
